@@ -1,0 +1,520 @@
+.disappear {
+    display: block;
+}
+.hid {
+    display: none;
+}
+.wrapper {
+    padding: 0 50px;
+}
+.link {
+    color: #383838;
+    text-decoration: none;
+}
+.nav1 {
+    height: 100px;
+    display: flex;
+    justify-content: space-between;
+}
+.block {
+    display: flex;
+    gap: 8px;
+}
+.onas {
+    color: #383838;
+    font-family: Inter;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+}
+.dropdowns {
+    display: flex;
+    color: #383838;
+    font-family: Inter;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    gap: 16px;
+}
+.stroke {
+    background-color: #ccc;
+    height: 1px;
+    width: 100%;
+}
+.drpdwn {
+    padding: 9px 12px;
+    background-color: #fff;
+    border-radius: 30px;
+    border: 1px solid #383838;
+    display: flex;
+    gap: 8px;
+}
+.dash-arrow {
+    margin-bottom: 2.5px;
+}
+.flex-center {
+    display: flex;
+  	justify-content: center;
+  	align-items: center;
+}
+.navbar-logo-tablet {
+    width: 11vw;
+}
+.nav2 {
+    display: flex;
+    justify-content: space-between;
+    height: 100px;
+}
+.product-catalogue-button {
+    display: flex;
+    gap: 12px;
+    border-radius: 32px;
+    background: #101A33;
+    padding: 10px 24px;
+    border: none;
+}
+.ctlg-text {
+    color: #FFF;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+}
+.search {
+    padding: 12px 24px;
+    border-radius: 25px;
+    width: 100%;
+    background: #F1F1F1;
+    display: flex;
+    gap: 16px;
+    color: #A4A4A4;
+    font-family: Inter;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+}
+.search-text {
+    background: #F1F1F1;
+    border: none;
+    width: 100%;
+    padding: 0;
+}
+.search-text:focus {
+    outline: none;
+}
+.icons {
+    display: flex;
+    gap: 40px;
+    height: 100%;
+}
+.two-buttons {
+    padding-top: 12px;
+    padding-bottom: 17px;;
+    display: flex;
+    gap: 24px;
+}
+.flex {
+    display: flex;
+}
+.poster-1 {
+    border-radius: 24px;
+    background: #CBBBA1;
+    position: relative;
+    height: 343px;
+    padding-top: 35px;
+}
+.img-logo {
+    width:17%;
+    display: block;
+    position: absolute;
+    right: 4%;
+}
+.img-freezer {
+    width: 18%;
+    position: absolute;
+    left: 44%;
+}
+.img-mixer {
+    width: 12%;
+    position: absolute;
+    left: 59%;
+    top: 53%;
+}
+.img-tv {
+    width: 25%;
+    position: absolute;
+    left: 66%;
+    top: 31%;
+}
+.white-rect1 {
+    position: absolute;
+    width: 23.44%;
+    height: 175px;
+    border-radius: 0 24px 0 0;
+    background: #F5F6F6;
+    top: 95px;
+    left: -1px;
+}
+.white-rect2 {
+    position: absolute;
+    width: 40%;
+    height: 165px;
+    border-radius: 0 30px 0 0;
+    background: #F5F6F6;
+    bottom: 0;
+    left: -1px;
+}
+.mini-white-rect1 {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    background: #F5F6F6;
+    top: 65px;
+    left: -1px;
+}
+.mini-white-rect2 {
+    position: absolute;
+    width: 35px;
+    height: 30px;
+    background: #F5F6F6;
+    top: 148px;
+    left: 23.3%;
+}
+.mini-white-rect3 {
+    position: absolute;
+    width: 35px;
+    height: 30px;
+    background: #F5F6F6;
+    bottom: 0;
+    left: 39.7%;
+}
+
+.mini-brown-rect1 {
+    position: absolute;
+    width: 50px;
+    height: 30px;
+    border-radius: 0 0 0 30px;
+    background: #CBBBA1;
+    top: 65px;
+}
+.mini-brown-rect2 {
+    position: absolute;
+    width: 50px;
+    height: 30px;
+    border-radius: 0 0 0 30px;
+    background: #CBBBA1;
+    top: 148px;
+    left: calc(23.44% - 1px);
+}
+.mini-brown-rect3 {
+    position: absolute;
+    width: 50px;
+    height: 30px;
+    border-radius: 0 0 0 30px;
+    background: #CBBBA1;
+    bottom: 0px;
+    left: calc(40% - 1px);
+}
+.appliances {
+    position: absolute;
+    bottom: 167px;
+    color: #101A33;
+    font-family: Inter;
+    font-size: 1.5vw;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    padding: 8px 12px;
+    border-radius: 39px;
+    border: 1px solid #101A33;
+}
+.appliances-text {
+    position: absolute;
+    bottom: 0;
+    color: #101A33;
+    width: 40%;
+    font-family: Inter;
+    font-size: 3vw;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 80.891px;
+}
+.bestsellers-block {
+    margin-top: 50px;
+}
+.bestsellers-text {
+    text-align: center;
+    color: #101A33;
+    font-family: Inter;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+.bestseller-products-list {
+    margin-top: 30px;
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    gap: 22px;
+}
+.categories {
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    gap: 20px;
+}
+.category {
+    position: relative;
+    height: 157px;
+    border-radius: 20px;
+    background-color: #FFFFFF;
+    margin-top: 39px;
+}
+.category-img {
+    position: absolute;
+    bottom: 64px;
+    height: 49%;
+    display: block;
+    left: 0;
+    right: 0;
+    margin-left: auto; 
+    margin-right: auto; 
+}
+.category-text {
+    position: absolute;
+    color: #101A33;
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    width: 100%;
+    bottom: 16px;
+}
+.star-rating{
+    color: #bebebe;
+    font-size: 19px;
+    margin-bottom: 0;
+}
+.my-star::before{
+    content:"\002605";
+}
+.my-star{
+    font-style: unset !important;
+}
+.is-active{
+    color:#fb8900;
+}
+.product-price {
+    position: absolute;
+    bottom: 35px;
+    left: 8px;
+    color: #101A33;
+    font-family: Inter;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 700;
+}
+.product-code {
+    position: absolute;
+    bottom: 12px;
+    left: 8px;
+    color: #808285;
+    font-family: Inter;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+@media (max-width: 576px) {
+    .disappear {
+        display: none;
+    }
+    .hid {
+        display: block;
+    }
+    .wrapper {
+        padding: 0 12px;
+    }
+    .nav1 {
+        height: 42px;
+        display: flex;
+        justify-content: space-between;
+    }
+    .drpdwn {
+        color: #333;
+        font-family: Inter;
+        font-size: 13px;
+        font-weight: 400;
+    }
+    .drpdwn {
+        padding: 3px 8px;
+        background-color: #fff;
+        border-radius: 30px;
+        border: 0.8px solid #CBBBA1;
+        display: flex;
+        gap: 4px;
+    }
+    .dash-arrow {
+        margin: auto 0;
+    }
+    .flex-center {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .navbar-logo-mobile {
+        display: block;
+        width: 27vw;
+    }
+    .menu-burger {
+        border: none;
+        padding: 0;
+        background-color: #fff;
+    }
+    .burger-item {
+        color: #333;
+        font-family: Inter;
+        font-size: 13px;
+        font-weight: 400;
+    }
+    .nav3 {
+        height: 35px;
+    }
+    .search {
+        padding: 7.75px 12px;
+        border-radius: 25px;
+        width: 100%;
+        background: #F1F1F1;
+        display: flex;
+        gap: 8px;
+        color: #A4A4A4;
+        font-family: Inter;
+        font-size: 13px;
+        font-style: normal;
+        font-weight: 400;
+    }
+    .poster-1 {
+        border-radius: 10px;
+        background: #CBBBA1;
+        position: relative;
+        height: 135px;
+        padding-top: 18px;
+    }
+    .img-logo {
+        width: 30%;
+        display: block;
+        position: absolute;
+        left: 66%;
+    }
+    .img-freezer {
+        width: 19%;
+        position: absolute;
+        left: 44%;
+    }
+    .img-mixer {
+        width: 16%;
+        position: absolute;
+        left: 60%;
+        top: 46%;
+    }
+    .img-tv {
+        width: 25%;
+        position: absolute;
+        left: 71%;
+        top: 32%;
+    }
+    .white-rect1 {
+        position: absolute;
+        width: 106px;
+        height: 78px;
+        border-radius: 0px 12px 0px 0px;
+        background: #F5F6F6;
+        top: 57px;
+        left: -1px;
+    }
+    .white-rect2 {
+        position: absolute;
+        width: 170px;
+        height: 48px;
+        border-radius: 0px 12px 0px 0px;
+        background: #F5F6F6;
+        top: 87px;
+        left: -1px;
+    }
+    .mini-white-rect1 {
+        position: absolute;
+        width: 20px;
+        height: 12px;
+        background: #F5F6F6;
+        top: 45px;
+        left: -1px;
+    }
+    .mini-white-rect2 {
+        position: absolute;
+        width: 20px;
+        height: 12px;
+        background: #F5F6F6;
+        top: 76px;
+        left: 104px;
+    }
+    .mini-white-rect3 {
+        position: absolute;
+        width: 20px;
+        height: 11px;
+        background: #F5F6F6;
+        top: 124px;
+        left: 168px;
+    }
+    .mini-brown-rect1 {
+        position: absolute;
+        width: 50px;
+        height: 24px;
+        border-radius: 10px;
+        background: #CBBBA1;
+        top: 33px;
+    }
+    .mini-brown-rect2 {
+        position: absolute;
+        width: 30px;
+        height: 24px;
+        border-radius: 10px;
+        background: #CBBBA1;
+        top: 63px;
+        left: 105px;
+    }
+    .mini-brown-rect3 {
+        position: absolute;
+        width: 30px;
+        height: 16px;
+        border-radius: 10px;
+        background: #CBBBA1;
+        bottom: 0px;
+        left: 169px;
+    }
+    .appliances {
+        position: absolute;
+        bottom: 49px;
+        color: #101A33;
+        font-family: Inter;
+        font-size: 9.5px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+        padding: 2.2px 8px;
+        border-radius: 11px;
+        border: 0.8px solid #CBBBA1;
+    }
+    .appliances-text {
+        position: absolute;
+        bottom: 0;
+        color: #101A33;
+        width: 161px;
+        font-family: Inter;
+        font-size: 18px;
+        font-style: normal;
+        font-weight: 600;
+        line-height: 21.514px;
+    }
+}   

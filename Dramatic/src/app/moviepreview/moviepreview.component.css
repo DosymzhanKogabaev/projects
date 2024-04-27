@@ -1,0 +1,56 @@
+.title {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    color: #FFFFFF;
+    margin-top: 10px;
+}
+.year {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 13px;
+    color: #AFAFAF;
+    margin-top: 4px;
+}
+.imdb-logo {
+    margin-top: 5px;
+    width: 34px;
+}
+.poster {
+    display: block;
+    width: 100%;
+    border-radius: 7px;
+}
+.movie-rating {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 13px;
+    color: #FFC907;
+    margin: auto 0;
+}
+.movie-info {
+    display: flex;
+    justify-content: space-between;
+}
+.part1 {
+    display: flex;
+    gap: 5px;
+}
+.part2 {
+    display: flex;
+    gap: 5px;
+    align-items: center;
+}
+.svg {
+    width: 20px;
+    height: 20px;
+}
+a {
+    cursor: pointer;
+}

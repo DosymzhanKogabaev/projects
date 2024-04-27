@@ -1,0 +1,151 @@
+:root {
+    --screen-width: 100vw;
+}
+
+.global-wrapper {
+    padding: 0 50px;
+}
+
+.disappear {
+    display: none;
+}
+.hid {
+    display: block;
+}
+
+@media (min-width: 576px) {
+    .disappear {
+        display: block;
+    }
+    .hid {
+        display: none;
+    }
+}
+
+.navbar-logo-mobile {
+    display: block;
+    width: calc(var(--screen-width) * 0.27);
+}
+.navbar-logo-tablet {
+    display: block;
+    width: calc(var(--screen-width) * 0.10);
+}
+.flex-center {
+    display: flex;
+  	justify-content: center;
+  	align-items: center;
+}
+.link {
+    color: #383838;
+    text-decoration: none;
+}
+.nav1 {
+    height: 100px;
+    display: flex;
+    justify-content: space-between;
+}
+.drpdwn {
+    padding: 9px 12px;
+    background-color: #fff;
+    border-radius: 30px;
+    border: 1px solid #383838;
+    display: flex;
+    gap: 8px;
+    color: #333;
+    font-family: Inter;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.navbottom {
+    display: flex;
+    justify-content: space-between;
+    height: 100px;
+}
+.product-catalogue-button {
+    display: flex;
+    gap: 12px;
+    border-radius: 32px;
+    background: #101A33;
+    padding: 10px 24px;
+    border: none;
+}
+.ctlg-text {
+    color: #FFF;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+}
+.search {
+    padding: 12px 24px;
+    border-radius: 25px;
+    width: 100%;
+    background: #F1F1F1;
+    display: flex;
+    gap: 16px;
+    color: #A4A4A4;
+    font-family: Inter;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+}
+.search-text {
+    background: #F1F1F1;
+    border: none;
+    width: 100%;
+    padding: 0;
+}
+.search-text:focus {
+    outline: none;
+}
+.icons {
+    display: flex;
+    gap: 40px;
+    height: 100%;
+}
+a {
+    cursor: pointer;
+}
+.test {
+    background-color: violet;
+    height: 50px;
+    width: 100px;
+    border: 2px solid #101A33;
+}
+.stroke {
+    background-color: #ccc;
+    height: 1px;
+    width: 100%;
+}
+.block {
+    display: flex;
+    gap: 8px;
+}
+.two-buttons {
+    padding-top: 12px;
+    display: flex;
+    gap: 24px;
+}
+
+.banner {
+    background-color: #CBBBA1;
+    height: 343px;
+    border-radius: 24px;
+    position: relative;
+}
+.two-blocks {
+    margin-top: 17px;
+}
+.logo-white {
+    width: 275px; 
+    height: 30px; 
+    display: block;
+    position: absolute;
+    left: 60%;
+    top: 11%;
+}
+.freezer {
+    width: 200px;
+}

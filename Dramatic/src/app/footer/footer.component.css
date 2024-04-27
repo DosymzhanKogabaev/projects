@@ -1,0 +1,50 @@
+.footer {
+    background: #161214;
+    padding: calc(var(--main-offset) / 2) var(--main-offset) 0 var(--main-offset);
+    display: flex;
+    justify-content: space-between;
+}
+.title {
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 19px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+.buttons {
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 30px;
+    color: #CDCDCD;
+    opacity: 0.8;
+}
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+a {
+    cursor: pointer;
+}
+.social-media {
+    margin-top: 14px;
+    display: flex;
+    gap: 15px;
+}
+.social-media-item {
+    box-sizing: border-box;
+    opacity: 0.25;
+    border: 1px solid #FFFFFF;
+    border-radius: 19.5px;
+    width: 40px;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.svg {
+    width: fit-content;
+}

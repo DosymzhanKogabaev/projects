@@ -1,0 +1,155 @@
+.movie-of-the-day {
+    padding-top: 10%;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    width: 100%;
+}
+.title {
+    font-size: 64px;
+    letter-spacing: 4px;
+    background: -webkit-linear-gradient(#626e80, #E4F1FF);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.overview {
+    margin-top: 32px;
+    font-size: 14px;
+    color: #fff;
+    font-size: 14px;
+    line-height: 17px;
+    color: #FFFFFF;
+}
+.genres {
+    font-size: 18px;
+    color: #fff;
+}
+.block {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    padding: 0px var(--main-offset);
+    width: 40%;
+}
+h1 {
+    margin: 0;
+}
+.left-bar {
+    position: absolute;
+    left: 0;
+    top: 20%;
+    padding: 40px 30px;
+    background: linear-gradient(2.87deg, #130B29 9.89%, #5436A9 100%, #5E47A1 100%);
+    border-radius: 0 26px 26px 0;
+}
+.left-bar-button {
+    margin-top: 35px; 
+    width: 30px;
+    height: 30px;
+    cursor: pointer;
+    display: block;
+}
+.left-bar-button:first-child {
+    margin-top: 0;
+}
+.buttons {
+    margin-top: 18px;
+    display: flex;
+    gap: 20px;
+}
+.watch, .add-my-list  {
+    display: flex;
+    padding: 13px;
+    color: #fff;
+    background: #5436A9;
+    border-radius: 30px;
+    width: fit-content;
+    cursor: pointer;
+}
+.play-button {
+    margin-left: 10px;
+    margin-top: 1px;
+}
+.add-my-list {
+    background: #5C5C5C;
+}
+.plus-button {
+    margin-left: 6px;
+    margin-top: 1px;
+}
+.movie-info-block {
+    display: flex;
+    width: fit-content;
+    margin-top: 24px;
+    gap: 17px;
+}
+.imdb-logo {
+    width: 54px;
+    height: 27px;
+    margin: auto 0;
+}
+.film-rating {
+    color: #fff;
+    height: 27px;
+    margin: auto 0;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+    color: #FFC907;
+}
+.ua-rating, .film-quality {
+    border: 1px solid #FFFFFF;
+    border-radius: 5px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 22px;
+    color: #FFFFFF;
+    margin: auto 0;
+    padding: 1.7px;
+}
+.release-year {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+    color: #959595;
+    margin: auto 0;
+}
+.movies-list {
+    display: flex;
+    width: fit-content;
+    column-gap: 42px;
+}
+.movies-wrap {
+    overflow: hidden;
+    width: 100%;
+    overflow-x: auto;
+    margin-top: 21px;
+}
+.movies-text {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 22px;
+    color: #FFFFFF;
+    padding: 0 var(--main-offset);
+}
+.movies {
+    padding: 25px 0;
+    margin-top: 50px;
+    background: rgba(11, 15, 22, 0.47);
+    box-shadow: 8px -8px 10px rgba(0, 0, 0, 0.25);
+    backdrop-filter: blur(12.5px);
+    border-radius: 24px;
+}
+.movies-list-item:first-child {
+    padding-left: var(--main-offset);
+}
+.movies-list-item:last-child {
+    padding-right: var(--main-offset);
+}
