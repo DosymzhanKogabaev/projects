@@ -1,0 +1,33 @@
+<div class="timeline">
+    <div class="hero">
+        <div class="hero-block">
+            <div class="hero-header">
+                This is a Timeline of our Relationship
+            </div>
+            <div class="hero-text">
+                Relive the special moments and memories that we've shared throughout our relationship.
+            </div>
+            <div class="arrow-button">
+                <button class="scroll" (click)="scrollDown()">
+                    <img class="arrow-img" src="/assets/arrow.png">
+                </button>
+            </div>
+        </div>
+    </div>
+    <div id="cards-list" *ngFor="let card of cards">
+        <app-timeline-card [card]="card"></app-timeline-card>
+    </div>
+    <div class="line"></div>
+    <div class="end">
+        <div>
+            <div class="end-text" data-aos="fade-up">
+                Sadly this is the end of the timeline. There are so many memories that I should add to this timeline but unfortunately a lot of our pictures together got lost so I've tried to make at least something out of the pictures I had. In fact, So many things happened to us in our relationship and even if I wanted to, I wouldn't be able to put everything here.
+            </div>
+            <div class="arrow-button up">
+                <button class="scroll" (click)="scrollUp()">
+                    <img class="arrow-img" src="/assets/arrow.png">
+                </button>
+            </div>
+        </div>
+    </div>
+</div>

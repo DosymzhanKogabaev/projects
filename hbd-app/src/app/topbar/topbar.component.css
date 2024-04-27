@@ -1,0 +1,35 @@
+.header {
+    height: 110px;
+    background-color: #FB9AD1;
+    padding: 0 50px;
+    display: flex;
+    justify-content: space-between;
+}
+.logo {
+    margin: auto 0;
+}
+.logo-img {
+    display: block;
+    height: 100px;
+}
+.navbar-elements {
+    height: 100%;
+    padding: 0;
+    list-style-type: none;
+    margin: 0;
+    display: flex;
+    gap: 30px;
+}
+a {
+    text-decoration: none;
+    color: #000;
+    cursor: pointer;
+}
+li {
+    font-size: 24px;
+    padding: 0px 2.5px;
+    margin: auto 0;
+}
+li:hover {
+    border-bottom: 2px solid #000;
+}
