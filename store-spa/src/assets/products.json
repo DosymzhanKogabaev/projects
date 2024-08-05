@@ -1,0 +1,224 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "image": "https://resources.cdn-kaspi.kz/img/m/p/ha3/hda/86319874048030.jpg?format=gallery-medium",
+            "name": "Смартфон Apple iPhone 15 Pro Max",
+            "description": "256Gb серый",
+            "category": "Смартфоны",
+            "categoryEn": "smartphones",
+            "price": 600000,
+            "quantity": 123,
+            "sales": 15
+        },
+        {
+            "id": 2,
+            "image": "https://resources.cdn-kaspi.kz/img/m/p/hd8/hac/63897052413982.jpg?format=gallery-medium",
+            "name": "Смартфон Apple iPhone 11",
+            "description": "128Gb Slim Box черный",
+            "category": "Смартфоны",
+            "categoryEn": "smartphones",
+            "price": 206000,
+            "quantity": 45,
+            "sales": 22
+        },
+        {
+            "id": 3,
+            "image": "https://resources.cdn-kaspi.kz/img/m/p/hc9/h90/64209083007006.jpg?format=gallery-medium",
+            "name": "Смартфон Apple iPhone 13",
+            "description": "128Gb белый",
+            "category": "Смартфоны",
+            "categoryEn": "smartphones",
+            "price": 293000,
+            "quantity": 70,
+            "sales": 6
+        },
+        {
+            "id": 4,
+            "image": "https://resources.cdn-kaspi.kz/img/m/p/h1b/h77/84526902706206.jpg?format=gallery-medium",
+            "name": "Смартфон Xiaomi Redmi 13C",
+            "description": "8 ГБ/256 ГБ черный",
+            "category": "Смартфоны",
+            "categoryEn": "smartphones",
+            "price": 56000,
+            "quantity": 70,
+            "sales": 6
+        },
+        {
+            "id": 5,
+            "image": "https://resources.cdn-kaspi.kz/img/m/p/he7/h17/64383593971742.jpg?format=gallery-medium",
+            "name": "Mizam диван прямой Волна",
+            "description": "обивка ткань, 70x210x75 см, серый",
+            "category": "Мебель",
+            "categoryEn": "furniture",
+            "price": 59000,
+            "quantity": 205,
+            "sales": 16
+        },
+        {
+            "id": 6,
+            "image": "https://resources.cdn-kaspi.kz/img/m/p/hc3/h12/83056822157342.jpg?format=gallery-medium",
+            "name": "Тв-тумба",
+            "description": "180x50x35 см, коричневый, темно-серый",
+            "category": "Мебель",
+            "categoryEn": "furniture",
+            "price": 31000,
+            "quantity": 45,
+            "sales": 22
+        },
+        {
+            "id": 7,
+            "image": "https://resources.cdn-kaspi.kz/img/m/p/ha3/he7/64492262883358.jpg?format=gallery-medium",
+            "name": "Тв-тумба подвесная Modern 200",
+            "description": "ЛДСП, 200x40x30, белый",
+            "category": "Мебель",
+            "categoryEn": "furniture",
+            "price": 32000,
+            "quantity": 77,
+            "sales": 40
+        },
+        {
+            "id": 8,
+            "image": "https://resources.cdn-kaspi.kz/img/m/p/h5e/h40/63772421029918.jpg?format=gallery-medium",
+            "name": "Шкаф-витрина ANREX напольный Тиффани 1V2S 212",
+            "description": "1x69x39.6 см",
+            "category": "Мебель",
+            "categoryEn": "furniture",
+            "price": 121000,
+            "quantity": 45,
+            "sales": 5
+        },
+        {
+            "id": 9,
+            "image": "https://resources.cdn-kaspi.kz/img/m/p/hf7/h67/64437574336542.jpg?format=gallery-medium",
+            "name": "DMND спонж скошенный",
+            "description": "спонж капля полиуретан 2 шт",
+            "category": "Косметика",
+            "categoryEn": "cosmetics",
+            "price": 200,
+            "quantity": 457,
+            "sales": 123
+        },
+        {
+            "id": 10,
+            "image": "https://resources.cdn-kaspi.kz/img/m/p/ha9/h24/64500563968030.jpg?format=gallery-medium",
+            "name": "Flomar Waterproof Lipliner",
+            "description": "набор карандашей 12 шт",
+            "category": "Косметика",
+            "categoryEn": "cosmetics",
+            "price": 1000,
+            "quantity": 741,
+            "sales": 156
+        },
+        {
+            "id": 11,
+            "image": "https://resources.cdn-kaspi.kz/img/m/p/h2b/hd0/63967831031838.jpg?format=gallery-medium",
+            "name": "Пудра RELOUIS HD Powder Fixing transparent",
+            "description": "рассыпчатая 01 белый",
+            "category": "Косметика",
+            "categoryEn": "cosmetics",
+            "price": 1620,
+            "quantity": 426,
+            "sales": 204
+        },
+        {
+            "id": 12,
+            "image": "https://resources.cdn-kaspi.kz/img/m/p/hdd/h87/67457735000094.jpg?format=gallery-medium",
+            "name": "Набор кисточек для макияжа",
+            "description": "13 шт коричневый, бежевый, красный 13",
+            "category": "Косметика",
+            "categoryEn": "cosmetics",
+            "price": 800,
+            "quantity": 336,
+            "sales": 164
+        },
+        {
+            "id": 13,
+            "image": "https://resources.cdn-kaspi.kz/img/m/p/h47/ha1/64094073815070.jpg?format=gallery-medium",
+            "name": "Generic SF-400",
+            "description": "Кухонные весы",
+            "category": "Бытовая техника",
+            "categoryEn": "home-equipment",
+            "price": 680,
+            "quantity": 147,
+            "sales": 47
+        },
+        {
+            "id": 14,
+            "image": "https://resources.cdn-kaspi.kz/img/m/p/h5b/h9b/82803977289758.jpg?format=gallery-medium",
+            "name": "Yingzheng ZY-305",
+            "description": "Электрочайник черный",
+            "category": "Бытовая техника",
+            "categoryEn": "home-equipment",
+            "price": 3800,
+            "quantity": 145,
+            "sales": 22
+        },
+        {
+            "id": 15,
+            "image": "https://resources.cdn-kaspi.kz/img/m/p/h4f/hce/64177858183198.jpg?format=gallery-medium",
+            "name": "SOKANY SK-907",
+            "description": "Вафельница черная",
+            "category": "Бытовая техника",
+            "categoryEn": "home-equipment",
+            "price": 12000,
+            "quantity": 94,
+            "sales": 18
+        },
+        {
+            "id": 16,
+            "image": "https://resources.cdn-kaspi.kz/img/m/p/hca/h52/80405119434782.jpg?format=gallery-medium",
+            "name": "Dessus BL-260",
+            "description": "Электрочайник зеленый",
+            "category": "Бытовая техника",
+            "categoryEn": "home-equipment",
+            "price": 2400,
+            "quantity": 426,
+            "sales": 104
+        },
+        {
+            "id": 17,
+            "image": "https://resources.cdn-kaspi.kz/img/m/p/h04/h90/86581566636062.jpg?format=gallery-medium",
+            "name": "Цитрамон П таблетки",
+            "description": "240 мг 10 шт",
+            "category": "Лекарства",
+            "categoryEn": "medications",
+            "price": 145,
+            "quantity": 1025,
+            "sales": 403
+        },
+        {
+            "id": 18,
+            "image": "https://resources.cdn-kaspi.kz/img/m/p/h53/h74/64029218570270.jpg?format=gallery-medium",
+            "name": "Перекись Водорода-DF",
+            "description": "раствор 3% 100 мл",
+            "category": "Лекарства",
+            "categoryEn": "medications",
+            "price": 150,
+            "quantity": 780,
+            "sales": 125
+        },
+        {
+            "id": 19,
+            "image": "https://resources.cdn-kaspi.kz/img/m/p/h8c/h07/86574424719390.jpg?format=gallery-medium",
+            "name": "Ацетилсалициловая кислота таблетки",
+            "description": "500 мг 10 шт",
+            "category": "Лекарства",
+            "categoryEn": "medications",
+            "price": 70,
+            "quantity": 1456,
+            "sales": 452
+        },
+        {
+            "id": 20,
+            "image": "https://resources.cdn-kaspi.kz/img/m/p/h3e/h0c/64060872884254.jpg?format=gallery-medium",
+            "name": "Нимесил суспензия",
+            "description": "100 мг 30 шт",
+            "category": "Лекарства",
+            "categoryEn": "medications",
+            "price": 4200,
+            "quantity": 256,
+            "sales": 75
+        }
+    ]
+}
